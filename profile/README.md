@@ -1,6 +1,6 @@
 # ngx-zen
 
-`ngx-zen` is a collection of Angular packages for adding common UI and utility features to Angular apps.
+`ngx-zen` includes Angular packages for UI components and utilities.
 
 ## Featured project
 
